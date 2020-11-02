@@ -1,10 +1,12 @@
+$myColor: black;
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.site-title {
+  font-size: 3rem;
+  color: $myColor;
 }
 
 @media (prefers-reduced-motion: no-preference) {

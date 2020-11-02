@@ -1,0 +1,11 @@
+.card-container {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(247, 247, 242);
+}
+
+img {
+    max-width: 200px;
+}
